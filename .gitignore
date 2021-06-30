@@ -1,0 +1,26 @@
+#eclipse files
+.classpath
+.project
+.settings/
+
+# temp files
+/temp/
+/backup/
+ 
+# Java class files
+*.class
+ 
+# Generated files
+/bin/
+
+#sources jars
+/lib/*-sources.jar
+ 
+# Gradle files
+.gradle/
+build/
+ 
+ 
+# Keystore files
+*.jks
+/.apt_generated/
