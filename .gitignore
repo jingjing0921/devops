@@ -5,7 +5,6 @@
 
 # temp files
 /temp/
-/backup/
  
 # Java class files
 *.class
@@ -19,6 +18,9 @@
 # Gradle files
 .gradle/
 build/
+
+# Maven files
+target/
  
  
 # Keystore files
